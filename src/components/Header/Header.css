@@ -1,0 +1,23 @@
+.Header {
+  align-items: center;
+  display: flex;
+  justify-content: center;
+  justify-content: space-around;
+  background-color: grey;
+  padding: 30px;
+  border-radius: 5px;
+}
+
+a {
+  text-decoration: none;
+  color: white;
+  padding: 7px;
+  display: inline-block;
+  transition: background-color 0.5s ease;
+  border-radius: 10px;
+}
+
+a:hover {
+  background-color: black;
+  padding: 7px;
+}
