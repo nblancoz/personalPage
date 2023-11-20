@@ -1,8 +1,15 @@
-# React + Vite
+## Personal Page Excercice
 
-This template provides a minimal setup to get React working in Vite with HMR and some ESLint rules.
+In this project I used React, I'm learning to use it.
 
-Currently, two official plugins are available:
+## Licence
 
-- [@vitejs/plugin-react](https://github.com/vitejs/vite-plugin-react/blob/main/packages/plugin-react/README.md) uses [Babel](https://babeljs.io/) for Fast Refresh
-- [@vitejs/plugin-react-swc](https://github.com/vitejs/vite-plugin-react-swc) uses [SWC](https://swc.rs/) for Fast Refresh
+This project is under licence of Nicolás Blanco Zappalá
+
+## Contact
+
+<p display="flex" align="center" justify-content="center">
+ Nicolás Blanco Zappalá
+<a href = "nblancozappala@gmail.com"><img src="https://img.shields.io/badge/-Gmail-%23333?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>
+    <a href="https://www.linkedin.com/in/nblancoz" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a> 
+</p>
