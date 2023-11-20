@@ -1,0 +1,12 @@
+.Portfolio {
+  margin-left: 7px;
+  display: flex;
+  flex-direction: column;
+  text-align: justify;
+}
+
+#github {
+    width: 60px;
+    background-color: white;
+    border-radius: 50px;
+}
