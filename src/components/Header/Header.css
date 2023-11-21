@@ -17,7 +17,7 @@
   border-radius: 10px;
 }
 
-a:hover {
+.a-headers:hover {
   background-color: #363636;
   padding: 7px;
 }
