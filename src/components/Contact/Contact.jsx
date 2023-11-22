@@ -1,5 +1,6 @@
 import React from "react";
 import "./Contact.css";
+import Form from "../Form/Form";
 
 function Contact() {
   return (
@@ -9,6 +10,7 @@ function Contact() {
         <img id="gmail" src="../assets/Gmail-logo.png" alt="" />
         <img id="link" src="../assets/LinkedIn-logo.webp" alt="" />
       </section>
+      <Form/>
     </div>
   );
 }

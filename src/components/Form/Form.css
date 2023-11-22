@@ -1,0 +1,19 @@
+.form {
+    display: flex;
+    text-align: left;
+    justify-content: center;
+}
+
+.form input, .form textarea {
+    margin-top: 5px;
+    width: 100%;
+    box-sizing: border-box;
+}
+button {
+    padding: 5px;
+    border-radius: 10px;
+}
+
+.form input {
+    padding: 5px;
+}
